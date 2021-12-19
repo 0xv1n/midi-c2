@@ -1,2 +1,1 @@
-# midi-c2
-i dont know why im doing this
+can we use MIDI for C2? let's find out
